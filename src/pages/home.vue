@@ -1,11 +1,11 @@
 <template>
 <div>
-    <h1 class="text-3xl font-bold underline">这是关于页面accb</h1>
+     <div>
+        <class-component></class-component>
+    </div>
+    <h1 class="text-3xl font-bold underline">这是关于页面kaccb</h1>
     <div>
         <todo-list></todo-list>
-    </div>
-    <div>
-        <class-component></class-component>
     </div>
 </div>
 </template>

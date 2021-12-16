@@ -1,13 +1,11 @@
 <template>
   <div class="home">
-      wkkewkkekw
+      wkkewkkekw-kkkkkk
   </div>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
-import Component from 'vue-class-component'
+import { Options, Vue} from 'vue-class-component'
 
-@Component
-export default class Home extends Vue {}
+export default class ClassComponent extends Vue {}
 </script>
